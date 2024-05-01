@@ -33,3 +33,4 @@ jobs:
           commit_message: Commit the artifacts.
 permissions:
   contents: write
+
